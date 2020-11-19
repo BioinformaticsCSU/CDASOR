@@ -1,6 +1,6 @@
 # License
 
-Copyright (C) 2017 Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
+Copyright (C) 2020 Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -38,9 +38,10 @@ Files:
 
 4) circAtlas.csv stores knonw circRNA-disease associations from circAtlas
 
+5) Experimental circRNA-disease information.txt from MNDR, 2020
+
 
 2.code
 1) dataInput.py
-2) hyperparams.py
-3) main.py
-4) RNA2Vec.py
+2) main.py
+3) RNA2Vec.py
